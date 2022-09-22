@@ -1,0 +1,68 @@
+.container{
+
+    margin: auto;
+    position: center;
+    display: flex;
+    flex-direction: column;
+    width: 347px;
+    box-shadow:#5d5d5d 0px 0px 15px;
+    border-radius: 20px ;
+    margin-top: 20px;
+    margin-bottom:20px;
+    font-family: Helvetica, Sans-Serif;
+}
+
+.followersuggestions{
+    font-size: 12px;
+    position: relative;
+    margin-left: 10px;
+}
+
+.fotodeperfil{
+
+    position: relative;
+    width: 32px;
+    height: 32px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    }
+
+.suggestion1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    }
+
+.suggestion2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    }
+
+.suggestion3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    }
+
+.suggestion4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    }
+
+.suggestion5{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    align-items: center;
+    }
+
+.suggestiontittle{
+    color: rgb(154, 154, 154);
+    font-size: 14px;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
